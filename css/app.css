@@ -8,6 +8,8 @@ p{
     text-align: center;
 }
 body {
-    border: aqua 2px solid;
-    border-radius: 5px;
+    padding: 10px;
+    border: rgb(11, 86, 88) 2px solid;
+    border-radius: 10px;
+background-color: burlywood;
 }
