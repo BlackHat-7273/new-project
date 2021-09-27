@@ -41,24 +41,3 @@ img {
 .item5 {
     grid-area: footer;
 }
-
-    .grid-container {
-        display: grid;
-        grid-template-areas:
-            'header header header header header '
-            'menu menu menu right right'
-            'main main main right right'
-            'footer footer footer footer footer';
-        grid-gap: 10px;
-        background-color: #2196F3;
-        padding: 10px;
-        width: 70%;
-    }
-
-    .grid-container>div {
-        background-color: rgba(255, 255, 255, 0.8);
-        text-align: center;
-        padding: 20px 0;
-        font-size: 350px;
-        
-    }
